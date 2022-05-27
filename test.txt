@@ -1,1 +1,3 @@
 i now have diverged the branches
+This is to test the branching ablitily of Git.
+
